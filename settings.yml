@@ -1,0 +1,6 @@
+mydex:
+  url: 'https://sbx-api.mydex.org/'
+  key: key from sandbox connection
+  api_key: your api key
+  con_id: con_id from sandbox connection
+  id: id from sandbox connection
